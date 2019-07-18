@@ -4,4 +4,5 @@ new_numbers = []
     puts x = x**2
     new_numbers << x
   end
+  return new_numbers
 end
